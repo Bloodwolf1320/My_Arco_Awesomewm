@@ -1,0 +1,34 @@
+#!/bin/bash
+./install-awesome-terminal-fonts-v1.sh &&
+./install-ckb-next-git-v1.sh &&
+./install-downgrade-v1.sh &&
+./install-etcher-bin-v1.sh &&
+./install-font-manager-git-v1.sh &&
+./install-gitfiend-v1.sh &&
+./install-gradio-v1.sh &&
+./install-grub-customizer-v1.sh &&
+./install-libreoffice-en-gb-v1.sh &&
+./install-mintstick-git-v2.sh &&
+./install-mpd-ncmpcpp-v3.sh &&
+./install-numix-circle-icon-theme-git-v1.sh &&
+./install-numix-folders-git-v1.sh &&
+./install-openbox-themes-pambudi-git-v1.sh &&
+./install-oxy-neon-v1.sh &&
+./install-pacli-v1.sh &&
+./install-pamac-aur-v1.sh &&
+./install-paper-icon-theme-git-v1.sh &&
+./install-papirus-icon-theme-git-v1.sh &&
+./install-sardi-extra-icons-v3.sh &&
+./install-sardi-icons-v1.sh &&
+./install-sardi-mint-y-icons-v1.sh &&
+./install-scrcpy-v1.sh &&
+./install-screenkey-git-v1.sh &&
+./install-snap-and-snap-store-v1.sh &&
+./install-stacer-v1.sh &&
+./install-sublime-text-v1.sh &&
+./install-surfn-icons-git-v1.sh &&
+./install-surfn-mint-y-icons-git-v1.sh &&
+./install-ttf-font-awesome-v1.sh &&
+./install-ttf-mac-fonts-v1.sh &&
+./install-xcursor-breeze-v1.sh &&
+sync
